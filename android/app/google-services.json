@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "250873439843",
+      "project_id": "authent-f77f8",
+      "storage_bucket": "authent-f77f8.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:250873439843:android:ce155246e0a177ad823a56",
+          "android_client_info": {
+            "package_name": "com.android.application"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAlNq5_Kz0cYVQUeVqMEYYHEtcDQGlKYhQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
