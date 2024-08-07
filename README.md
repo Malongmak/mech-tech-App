@@ -1,4 +1,4 @@
-### Link to the video: https://vimeo.com/976377867/7dae6c1d75?share=copy
+### Link to the video: https://youtu.be/wVlpBwrEp18
 
 # MechTech
 
